@@ -1,4 +1,4 @@
-# Hello! I'm Eggsy! Full Stack Developer
+# Hello! I'm Micaela! UX/UI designer, QA manual and front end (JavaScript) student.
 ## About me
 Hello! I'm a passionate Full Stack Developer with a keen focus on Java and Angular. My journey in the tech world began with a fascination for building solutions that not only perform efficiently but also deliver a compelling user experience.
 ## Contact me

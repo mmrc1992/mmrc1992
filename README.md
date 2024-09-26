@@ -1,6 +1,6 @@
 # Hello! I'm Micaela! UX/UI designer, QA manual and front end (JavaScript) student.
 ## About me
-<<<<<<< HEAD
+
 Hello! I'm a passionate Full Stack Developer with a keen focus on Java and Angular. My journey in the tech world began with a fascination for building solutions that not only perform efficiently but also deliver a compelling user experiencegit.
 =======
 I'm a UX designer with a focus on writing and research, complemented by knowledge in front-end development and QA. I'm currently studying QA Automation through the Code Your Future program at Globant University. 
@@ -9,7 +9,7 @@ I'm also currently pursuing advanced studies in Anthropological Sciences at the 
  
 My goal is to apply this knowledge to improve the effectiveness of digital solutions and contribute to making data-informed decisions. I'm excited to utilize this interdisciplinary skill set to drive innovative solutions and collaborate effectively in diverse teams.
 
->>>>>>> 6786c8db90b54d6ed6a76cf7c9e8a8e4bc2df36e
+
 ## Contact me
 As I continue my journey in ICT, I am always on the lookout for collaborative projects and opportunities where I can contribute my skills and grow both personally and professionally. Let's connect and explore how we can create something amazing together!
 

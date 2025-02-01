@@ -1,4 +1,4 @@
-# Hello! I'm Micaela, Junior UX/UI designer, QA tester trainee, and junior front-end developer.
+# Hello! I'm Micaela, junior UX/UI designer, junior front-end developer and QA tester trainee.
 ## About me
 
 I'm a UX designer with a focus on writing and research, complemented by knowledge in front-end development and QA. I'm currently studying QA Automation through the Code Your Future program at Globant University. 
